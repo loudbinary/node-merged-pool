@@ -1,5 +1,5 @@
 {
-    "name": "merged-pooler",
+    "name": "loudbinary-merged-pooler",
     "version": "1.0.0",
     "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
@@ -20,8 +20,9 @@
         "url": "https://github.com/UNOMP/node-merged-pool/issues"
     },
     "license": "GPL-2.0",
-    "author": "Daniel Beal",
+    "author": "Charles Russell",
     "contributors": [
+        "unomp.org",
 	"zone117x",
         "vekexasia",
         "TheSeven",
@@ -31,7 +32,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/UNOMP/node-merged-pool.git"
+        "url": "https://github.com/loudbinary/node-merged-pool.git"
     },
     "dependencies": {
         "unomp-multi-hashing": "*",

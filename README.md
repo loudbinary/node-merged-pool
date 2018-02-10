@@ -3,6 +3,14 @@ pools, each with their own daemon and stratum ports :)
 
 This software has been modefied for merged mining. It is still in development.
 
+#### Creator Attribution
+Thanks to [UNOMP.ORG](https://github.com/UNOMP/unified-node-open-mining-portal) for their original work.
+
+Project forked to work on another Hybrid coin, and making it GPU Capable. Moving code around, and debugging, etc
+is a pain via FTP.  This makes my life easier.
+
+If there are any changes I deem worthy, a pull request back to creators code is likely.
+
 #### Notice
 This is a module for Node.js that will do nothing on its own. Unless you're a Node.js developer who would like to
 handle stratum authentication and raw share data then this module will not be of use to you.
